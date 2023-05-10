@@ -1,6 +1,6 @@
 # Handbot
 
-![icon](./assets/icon.png)
+<img src="./assets/icon.png" alt="icon" style="zoom:33%;" />
 
 This repository is for my Handbot playground created for Swift Student Chanllenge in WWDC2023
 
