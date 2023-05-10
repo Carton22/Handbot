@@ -1,6 +1,6 @@
 # Handbot
 
-<img src="/Users/carton22/Handbot/handbot.swiftpm/Assets.xcassets/AppIcon.appiconset/icon.png" alt="icon" style="zoom:50%;" />
+![icon](./assets/icon.png)
 
 This repository is for my Handbot playground created for Swift Student Chanllenge in WWDC2023
 
@@ -14,27 +14,26 @@ In this AIGC era, my work hopes to encourage people to think about AI-generated 
 
 There are three main parts in my playground.
 
-![Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.23.24](/Users/carton22/Pictures/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.23.24.png)
+![introduction](./assets/1.png)
 
 #### Text
 
 - Highlight the word by clicking it.
 - Edit the word.
 - Drag the word around and view the animation.
-
-![Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.23.55](/Users/carton22/Pictures/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.23.55.png)
+- ![text](./assets/2.png)
 
 #### Painting
 
 - Repaint the AI-generated picture.
 
-![Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.24.06](/Users/carton22/Pictures/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.24.06.png)
+![painting](./assets/3.png)
 
 #### Audio
 
 - Make some comments about the AI-created songs.
 
-![Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.24.19](/Users/carton22/Pictures/Simulator Screenshot - iPad Pro (12.9-inch) (6th generation) - 2023-05-10 at 10.24.19.png)
+![audio](./assets/4.png)
 
 ### Requirements
 
