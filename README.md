@@ -19,9 +19,12 @@ There are three main parts in my playground.
 #### Text
 
 - Highlight the word by clicking it.
+
 - Edit the word.
+
 - Drag the word around and view the animation.
-- ![text](./assets/2.png)
+
+  ![text](./assets/2.png)
 
 #### Painting
 
